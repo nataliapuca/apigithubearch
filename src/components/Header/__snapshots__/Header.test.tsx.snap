@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Component matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-blHHSb imyqec"
+  >
+    <img
+      alt="Github Logo"
+      class="sc-gtLWhw fylmpA"
+      src="gitlogo.png"
+    />
+    <div>
+      My GitHub
+    </div>
+  </div>
+</DocumentFragment>
+`;
